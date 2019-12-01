@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "firstName": "Max",
+    "lastName": "Stepanov",
+    "login": "MAXIMUS",
+    "hashPassword": "$2a$10$u/MTRlUzZjRYHfNaBqGiP.oWencxjTp8fRJ47K7UdSYPND3y2UCTO",
+    "role": "USER",
+    "state": "ACTIVE"
+  },
+  {
+    "id": 2,
+    "firstName": "Andrew",
+    "lastName": "Kozhevnikov",
+    "login": "MUScool",
+    "hashPassword": "$2a$10$Zz0SkznlCubLuBZkrpH7V.YF3V7Bs2nbBe3emsGZcM4PVePvAG.mu",
+    "role": "ADMIN",
+    "state": "ACTIVE"
+  }
+]
